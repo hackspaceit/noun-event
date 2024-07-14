@@ -2,6 +2,8 @@
 import { Html5Qrcode } from 'html5-qrcode';
 import {Html5QrcodeScanner} from "html5-qrcode";
 import { abi } from './constants/abi';
+import { useReadContract } from 'wagmi';
+import { useQueryClient } from '@tanstack/react-query';
 const contractAddress = '0x173EA2dAc8533896F86b97A95636E8775E363EEe';
 
 <script src="https://unpkg.com/html5-qrcode" type="text/javascript"></script>
