@@ -73,10 +73,10 @@
   resolved "https://registry.yarnpkg.com/@biomejs/cli-win32-x64/-/cli-win32-x64-1.7.3.tgz#41b65a940a360abb4a3205949370153ffe30c7de"
   integrity sha512-ZmByhbrnmz/UUFYB622CECwhKIPjJLLPr5zr3edhu04LzbfcOrz16VYeNq5dpO1ADG70FORhAJkaIGdaVBG00w==
 
-"@coinbase/onchainkit@^0.21.8":
-  version "0.21.9"
-  resolved "https://registry.yarnpkg.com/@coinbase/onchainkit/-/onchainkit-0.21.9.tgz#480e75cad1b35f5ba0a20ff7733fb98ce92f0ffc"
-  integrity sha512-8oB+hhh99XstIympnSUejukvsEqUgqrdBjmLcK/Jup0YKQeJTIXob+5AQ95RsUD6ilLBxaRM/BGFC/c6bz6oqA==
+"@coinbase/onchainkit@^0.25.1":
+  version "0.25.1"
+  resolved "https://registry.yarnpkg.com/@coinbase/onchainkit/-/onchainkit-0.25.1.tgz#d0bbb4b630aa68835b7c84b54b7a5f71c0c49178"
+  integrity sha512-rQ8X6tUveTxcksvBBuL9DgGxSbgCR6vtEUZMqaffdOJDDa22sNuOvK8t3kbRYb6XavLNQ1Gi+3dEiiH7ym6g1w==
   dependencies:
     "@tanstack/react-query" "^5"
     clsx "^2.1.1"
