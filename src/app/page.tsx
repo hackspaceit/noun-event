@@ -1,6 +1,8 @@
 'use client';
 import { Html5Qrcode } from 'html5-qrcode';
 import {Html5QrcodeScanner} from "html5-qrcode";
+import { abi } from './constants/abi';
+const contractAddress = '<YOUR CONTRACT ADDRESS HERE>';
 <script src="https://unpkg.com/html5-qrcode" type="text/javascript"></script>
 export default function Page() {
   return (
